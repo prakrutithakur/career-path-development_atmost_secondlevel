@@ -1,0 +1,875 @@
+{
+  "purple_circle": [
+    {
+      "circle_id": 1,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 1",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "INTERIOR DESIGN STUDENT INTERN",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 2,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet. 2"
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 2",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "INTERIOR DESIGNER",
+            "content_2": "Lorem ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 3,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 3",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "SPECIALIST​",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 4,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 4",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "INTERIOR DESIGNER-2",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 5,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 5",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "TECH INTERIOR DESIGNER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 6,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 6",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "SPECIALIST LEAD",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 7,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 7",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "PROJECT INTERIOR DESIGNER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 8,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 8",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "INTERIOR PROJECT MANAGER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 9,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 9",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "TECH PROJ INTERIOR DESIGNER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 10,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 10",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "SPECIALIST GROUP LEAD",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 11,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 11",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "SR PROJECT INT DESIGNER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 12,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 12",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "SR INT PROJECT MANAGER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    },
+    {
+      "circle_id": 13,
+      "circle_details": {
+        "content": {
+          "circle_one_content": {
+            "content_1": "PROBLEM STATEMENT​",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_two_content": {
+            "content_1": "KEY AREAS OF RESPONSIBILITY",
+            "content_2": "KEY AREAS OF RESPONSIBILITY",
+            "content_3": [
+              {
+                "key_circle_id": 1,
+                "key_circle_content_1": "Lorem ipsum 12",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 2,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 3,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 4,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 5,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              },
+              {
+                "key_circle_id": 6,
+                "key_circle_content_1": "Lorem ipsum",
+                "key_circle_content_2": "Lorem ipsum dolor sit amet."
+              }
+            ]
+          },
+          "circle_three_content": {
+            "content_1": "EDUCATION AND EXPERIENCE",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_four_content": {
+            "content_1": "ESSENTIAL SKILLS AND COMPETENCIES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_five_content": {
+            "content_1": "ESSENTIAL ATTRIBUTES",
+            "content_2": "Lorem ipsum dolor sit amet."
+          },
+          "circle_six_content": {
+            "content_1": "SR TECH INTERIOR DESIGNER",
+            "content_2": "Lorem   ipsum dolor sit amet. Vel corporis enim qui dolorem laboriosam cum commodi similique nam dolorem debitis et omnis aspernatur ut fuga atque est nulla necessitatibus. Et possimus perferendis non assumenda enim a maiores aspernatur sed eius autem id soluta distinctio. Qui atque ducimus non illo voluptates aut tempora rerum ab numquam quam vel voluptatem assumenda est officiis veniam. Aut velit dolore hic autem natus et neque laboriosam."
+          }
+        }
+      }
+    }
+    
+  ],
+  "purple_secondlevel": {
+    "circle_id_1":{
+      "head":"INTERIOR DESIGN STUDENT INTERN​",
+      "body":"Under-Graduate Program in Interior Design"
+    },
+    "circle_id_2":{
+      "head":"INTERIOR DESIGNER​​",
+      "body":"BA/BFA In Interior Design"
+    },
+    "circle_id_3":{
+      "head":"SPECIALIST​"
+    },
+    "circle_id_6":{
+      "head":"SPECIALIST LEAD​​"
+    },
+    "circle_id_10":{
+      "head":"SPECIALIST GROUP LEAD​"
+    },
+    "circle_id_4":{
+      "head":"INTERIOR DESIGNER 2​",
+      "body":"BA/BFA "
+    },
+    "circle_id_7":{
+      "head":"PROJECT INTERIOR DESIGNER​",
+      "body":"BA/BFA"
+    },
+    "circle_id_11":{
+      "head":"SR PROJECT INT DESIGNER​",
+      "body":"BA/BFA"
+    },
+    "circle_id_8":{
+      "head":"INTERIOR PROJECT MANAGER​​",
+      "body":"BA/BFA"
+    },
+    "circle_id_12":{
+      "head":"SR INT PROJECT MANAGER​​",
+      "body":"BA/BFA"
+    },
+    "circle_id_5":{
+      "head":"TECH INTERIOR DESIGNER​",
+      "body":"TECH OR BA/BFA"
+    },
+    "circle_id_9":{
+      "head":"TECH PROJ INTERIOR DESIGNER​​",
+      "body":"TECH OR BA/BFA"
+    },
+    "circle_id_13":{
+      "head":"SR TECH INTERIOR DESIGNER​",
+      "body":"TECH OR BA/BFA"
+    }    
+  }
+}
