@@ -26,9 +26,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.488728 -0.872436 0.872642 -0.488361 105.337 748.034)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -38,9 +38,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.461939 -0.886912 0.887493 -0.460821 97.4028 733.877)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -50,9 +50,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.434746 -0.900553 0.901461 -0.432859 89.9731 719.585)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           S
@@ -62,9 +62,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.403718 -0.914883 0.916099 -0.400953 83.4336 706.129)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           O
@@ -74,9 +74,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.368764 -0.929523 0.931002 -0.365014 75.4512 688.005)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           U
@@ -86,9 +86,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.333376 -0.942794 0.944454 -0.328643 68.1382 669.453)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -98,9 +98,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.304798 -0.952417 0.954163 -0.299288 62.6914 654.011)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           C
@@ -110,9 +110,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.27241 -0.962181 0.963961 -0.266044 57.7793 638.607)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -122,9 +122,9 @@ const MainCompSvg = () => {
         transform="matrix(-0.243446 -0.969914 0.971671 -0.236339 53.5166 623.533)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           S
@@ -134,9 +134,9 @@ const MainCompSvg = () => {
         transform="translate(961.139 408) rotate(80.1522)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           A
@@ -146,9 +146,9 @@ const MainCompSvg = () => {
         transform="translate(963.76 422.986) rotate(81.9208)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -158,9 +158,9 @@ const MainCompSvg = () => {
         transform="translate(966.085 439.454) rotate(83.6877)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           C
@@ -170,9 +170,9 @@ const MainCompSvg = () => {
         transform="translate(967.803 454.764) rotate(85.6724)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           H
@@ -182,9 +182,9 @@ const MainCompSvg = () => {
         transform="translate(969.138 473.274) rotate(87.2132)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           I
@@ -194,9 +194,9 @@ const MainCompSvg = () => {
         transform="translate(969.656 483.467) rotate(88.7509)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           T
@@ -206,9 +206,9 @@ const MainCompSvg = () => {
         transform="translate(969.988 498.257) rotate(90.5041)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -218,9 +218,9 @@ const MainCompSvg = () => {
         transform="translate(969.841 514.011) rotate(92.2524)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           C
@@ -230,9 +230,9 @@ const MainCompSvg = () => {
         transform="translate(969.241 529.098) rotate(93.9953)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           T
@@ -242,9 +242,9 @@ const MainCompSvg = () => {
         transform="translate(968.227 544.029) rotate(95.9493)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           U
@@ -254,9 +254,9 @@ const MainCompSvg = () => {
         transform="translate(966.318 562.172) rotate(97.8959)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -266,9 +266,9 @@ const MainCompSvg = () => {
         transform="translate(963.917 579.254) rotate(99.8348)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -278,9 +278,9 @@ const MainCompSvg = () => {
         transform="matrix(0.971583 0.2367 -0.215818 0.976434 606.054 24.623)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5989">
           T
@@ -290,9 +290,9 @@ const MainCompSvg = () => {
         transform="matrix(0.964497 0.264094 -0.248577 0.968612 621.271 28.5591)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5876">
           E
@@ -302,9 +302,9 @@ const MainCompSvg = () => {
         transform="matrix(0.956652 0.291232 -0.281065 0.959689 636.356 32.9214)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5796">
           C
@@ -314,9 +314,9 @@ const MainCompSvg = () => {
         transform="matrix(0.946935 0.321426 -0.317212 0.948355 652.888 38.2434)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5745">
           H
@@ -326,9 +326,9 @@ const MainCompSvg = () => {
         transform="matrix(0.933799 0.357799 -0.360688 0.932687 672.788 45.4309)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5739">
           N
@@ -338,9 +338,9 @@ const MainCompSvg = () => {
         transform="matrix(0.919309 0.393536 -0.403253 0.915089 692.264 53.3271)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5795">
           I
@@ -350,9 +350,9 @@ const MainCompSvg = () => {
         transform="matrix(0.913711 0.406364 -0.418477 0.908227 699.482 56.4795)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.5831">
           C
@@ -362,9 +362,9 @@ const MainCompSvg = () => {
         transform="matrix(0.900486 0.434884 -0.452196 0.891919 714.768 63.5728)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.594">
           I
@@ -374,9 +374,9 @@ const MainCompSvg = () => {
         transform="matrix(0.894332 0.447403 -0.46693 0.884294 721.857 67.0627)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.6001">
           A
@@ -386,9 +386,9 @@ const MainCompSvg = () => {
         transform="matrix(0.879875 0.475205 -0.499482 0.866324 736.924 74.9141)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="26.6167">
           N
@@ -398,9 +398,9 @@ const MainCompSvg = () => {
         transform="translate(681.429 932.559) rotate(157.272)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           I
@@ -410,9 +410,9 @@ const MainCompSvg = () => {
         transform="translate(673.371 936.011) rotate(158.82)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           N
@@ -422,9 +422,9 @@ const MainCompSvg = () => {
         transform="translate(655.134 943.029) rotate(160.809)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           T
@@ -434,9 +434,9 @@ const MainCompSvg = () => {
         transform="translate(640.965 947.968) rotate(162.574)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -446,9 +446,9 @@ const MainCompSvg = () => {
         transform="translate(626.603 952.496) rotate(164.336)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -458,9 +458,9 @@ const MainCompSvg = () => {
         transform="translate(609.849 957.129) rotate(165.874)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           I
@@ -470,9 +470,9 @@ const MainCompSvg = () => {
         transform="translate(600.513 959.552) rotate(167.629)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           O
@@ -482,9 +482,9 @@ const MainCompSvg = () => {
         transform="translate(582.049 963.587) rotate(169.597)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -494,9 +494,9 @@ const MainCompSvg = () => {
         transform="translate(564.538 966.763) rotate(171.558)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           S
@@ -506,9 +506,9 @@ const MainCompSvg = () => {
         transform="translate(109.542 243.581) rotate(-54.4998)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -518,9 +518,9 @@ const MainCompSvg = () => {
         transform="translate(118.884 230.442) rotate(-52.5102)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           N
@@ -530,9 +530,9 @@ const MainCompSvg = () => {
         transform="translate(129.883 216.091) rotate(-50.5229)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           G
@@ -542,9 +542,9 @@ const MainCompSvg = () => {
         transform="translate(141.406 202.201) rotate(-48.9796)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           I
@@ -554,9 +554,9 @@ const MainCompSvg = () => {
         transform="translate(146.973 195.698) rotate(-47.4388)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           N
@@ -566,9 +566,9 @@ const MainCompSvg = () => {
         transform="translate(159.721 181.863) rotate(-45.4623)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -578,9 +578,9 @@ const MainCompSvg = () => {
         transform="translate(171.625 169.798) rotate(-43.4916)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           E
@@ -590,9 +590,9 @@ const MainCompSvg = () => {
         transform="translate(183.545 158.492) rotate(-41.5274)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           R
@@ -602,9 +602,9 @@ const MainCompSvg = () => {
         transform="translate(195.366 148.076) rotate(-40.2218)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           I
@@ -614,9 +614,9 @@ const MainCompSvg = () => {
         transform="translate(202.804 141.715) rotate(-38.486)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           N
@@ -626,9 +626,9 @@ const MainCompSvg = () => {
         transform="translate(217.827 129.798) rotate(-36.3245)"
         fill="#808285"
         style={{ whiteSpace: "pre" }}
-        font-family="PT Sans"
-        font-size="28"
-        letter-spacing="0em"
+        fontFamily="PT Sans"
+        fontSize="28"
+        letterSpacing="0em"
       >
         <tspan x="0" y="8.736">
           G
@@ -640,8 +640,8 @@ const MainCompSvg = () => {
         x2="897.216"
         y2="806.412"
         stroke="white"
-        stroke-width="4"
-        stroke-dasharray="8 8"
+        strokeWidth="4"
+        strokeDasharray="8 8"
       />
       <line
         x1="500.522"
@@ -649,8 +649,8 @@ const MainCompSvg = () => {
         x2="299.829"
         y2="958.808"
         stroke="white"
-        stroke-width="4"
-        stroke-dasharray="8 8"
+        strokeWidth="4"
+        strokeDasharray="8 8"
       />
       <line
         x1="498.385"
@@ -658,8 +658,8 @@ const MainCompSvg = () => {
         x2="5.6924"
         y2="428.976"
         stroke="white"
-        stroke-width="4"
-        stroke-dasharray="8 8"
+        strokeWidth="4"
+        strokeDasharray="8 8"
       />
       <line
         x1="497.5"
@@ -667,8 +667,8 @@ const MainCompSvg = () => {
         x2="896.521"
         y2="205.9"
         stroke="white"
-        stroke-width="4"
-        stroke-dasharray="8 8"
+        strokeWidth="4"
+        strokeDasharray="8 8"
       />
       <line
         x1="496.706"
@@ -676,8 +676,8 @@ const MainCompSvg = () => {
         x2="438.588"
         y2="6.93889"
         stroke="white"
-        stroke-width="4"
-        stroke-dasharray="8 8"
+        strokeWidth="4"
+        strokeDasharray="8 8"
       />
       <line
         x1="506.632"
@@ -685,7 +685,7 @@ const MainCompSvg = () => {
         x2="778.518"
         y2="499.958"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="666.268"
@@ -693,7 +693,7 @@ const MainCompSvg = () => {
         x2="873.761"
         y2="333.43"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="660.673"
@@ -701,7 +701,7 @@ const MainCompSvg = () => {
         x2="878.163"
         y2="652.373"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="771.923"
@@ -709,7 +709,7 @@ const MainCompSvg = () => {
         x2="846.923"
         y2="453.226"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="782.825"
@@ -717,7 +717,7 @@ const MainCompSvg = () => {
         x2="844.825"
         y2="453.381"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="826.467"
@@ -725,7 +725,7 @@ const MainCompSvg = () => {
         x2="906.237"
         y2="433.428"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="842.132"
@@ -733,7 +733,7 @@ const MainCompSvg = () => {
         x2="904.339"
         y2="433.113"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="785.187"
@@ -741,7 +741,7 @@ const MainCompSvg = () => {
         x2="850.345"
         y2="546.41"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="771.215"
@@ -749,7 +749,7 @@ const MainCompSvg = () => {
         x2="846.215"
         y2="543.16"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="847.424"
@@ -757,7 +757,7 @@ const MainCompSvg = () => {
         x2="907.424"
         y2="556.045"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <circle
         cx="681.501"
@@ -849,7 +849,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(-0.893997 0.448073 0.448073 0.893997 490.404 509.757)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         y1="-2"
@@ -857,7 +857,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(-0.31001 0.950733 0.950733 0.31001 330.829 590.855)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         y1="-2"
@@ -865,7 +865,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(-0.950733 -0.31001 -0.31001 0.950733 330.829 590.855)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="224.909"
@@ -873,7 +873,7 @@ const MainCompSvg = () => {
         x2="190.101"
         y2="663.941"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         y1="-2"
@@ -881,7 +881,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(0.89148 -0.45306 -0.45306 -0.89148 124.429 692.384)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="294.417"
@@ -889,7 +889,7 @@ const MainCompSvg = () => {
         x2="189.417"
         y2="665.913"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <circle
         cx="45"
@@ -960,7 +960,7 @@ const MainCompSvg = () => {
         x2="651.15"
         y2="126.241"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <circle
         cx="568.191"
@@ -996,7 +996,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(0.870249 0.492612 0.492612 -0.870249 334.362 404.462)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="334.807"
@@ -1004,7 +1004,7 @@ const MainCompSvg = () => {
         x2="117.969"
         y2="345.875"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         y1="-2"
@@ -1012,7 +1012,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(0.452292 0.89187 0.89187 -0.452292 409.204 327.991)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="298.901"
@@ -1020,7 +1020,7 @@ const MainCompSvg = () => {
         x2="175.491"
         y2="363.059"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="296.915"
@@ -1028,7 +1028,7 @@ const MainCompSvg = () => {
         x2="337.455"
         y2="402.455"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="377.162"
@@ -1036,7 +1036,7 @@ const MainCompSvg = () => {
         x2="250.488"
         y2="256.263"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         y1="-2"
@@ -1044,7 +1044,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(-0.422631 -0.906302 -0.906302 0.422631 409.204 327.991)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         y1="-2"
@@ -1052,7 +1052,7 @@ const MainCompSvg = () => {
         y2="-2"
         transform="matrix(-0.714676 -0.699456 -0.699456 0.714676 295.054 300.227)"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <circle
         cx="45"
@@ -1137,7 +1137,7 @@ const MainCompSvg = () => {
         x2="545.941"
         y2="676.518"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="545.5"
@@ -1145,7 +1145,7 @@ const MainCompSvg = () => {
         x2="404.73"
         y2="905.079"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="544.88"
@@ -1153,7 +1153,7 @@ const MainCompSvg = () => {
         x2="773.06"
         y2="824.666"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="648.689"
@@ -1161,7 +1161,7 @@ const MainCompSvg = () => {
         x2="584.493"
         y2="845.261"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="592.151"
@@ -1169,7 +1169,7 @@ const MainCompSvg = () => {
         x2="579.794"
         y2="837.61"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <line
         x1="482.018"
@@ -1177,7 +1177,7 @@ const MainCompSvg = () => {
         x2="583.822"
         y2="842.468"
         stroke="white"
-        stroke-width="4"
+        strokeWidth="4"
       />
       <circle
         cx="543.81"

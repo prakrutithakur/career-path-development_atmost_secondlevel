@@ -226,10 +226,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(490.2 531.125) rotate(-28.5098)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               R
@@ -239,10 +239,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(495.041 528.456) rotate(-32.4667)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               E
@@ -252,10 +252,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(499.325 525.697) rotate(-36.1861)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               S
@@ -265,10 +265,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(503.225 522.841) rotate(-40.3013)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               O
@@ -278,10 +278,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(507.899 518.834) rotate(-44.8122)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               U
@@ -291,10 +291,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(512.096 514.614) rotate(-49.0856)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               R
@@ -304,10 +304,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(515.686 510.43) rotate(-53.2008)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               C
@@ -317,10 +317,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(518.97 505.983) rotate(-57.1577)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               E
@@ -330,10 +330,10 @@ const SecondLevelPurple = ({ onClick, setChangeParent }) => {
             transform="translate(521.709 501.686) rotate(-60.8771)"
             fill="white"
             style={{ whiteSpace: "pre" }}
-            font-family="Montserrat"
-            font-size="6.35327"
-            font-weight="bold"
-            letter-spacing="0em"
+            fontFamily="Montserrat"
+            fontSize="6.35327"
+            fontWeight="bold"
+            letterSpacing="0em"
           >
             <tspan x="0" y="6.27765">
               S

@@ -56,17 +56,17 @@ const SecondLevelRed = ({ onClick, setChangeParent }) => {
           <path
             d="M560.071 427L524.5 420C512.678 398.384 490.604 378.542 483.081 374.823L479.991 387.997L437 348.206L493.022 331L489.932 345.787C528.086 363.208 555.28 411.855 560.071 427Z"
             fill="url(#paint0_linear_259_75)"
-          /><text transform="translate(490.845 360.975) rotate(27.8929)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">E</tspan></text>
-          <text transform="translate(495.245 363.335) rotate(31.4912)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">N</tspan></text>
-          <text transform="translate(500.16 366.4) rotate(35.2971)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">G</tspan></text>
-          <text transform="translate(504.632 369.641) rotate(38.2034)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">I</tspan></text>
-          <text transform="translate(507.132 371.606) rotate(41.1789)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">N</tspan></text>
-          <text transform="translate(511.445 375.448) rotate(44.7772)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48242" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">E</tspan></text>
-          <text transform="translate(514.947 378.974) rotate(48.0986)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">E</tspan></text>
-          <text transform="translate(518.25 382.703) rotate(51.5585)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48242" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">R</tspan></text>
-          <text transform="translate(521.513 386.906) rotate(54.3956)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">I</tspan></text>
-          <text transform="translate(523.366 389.491) rotate(57.3712)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">N</tspan></text>
-          <text transform="translate(526.45 394.394) rotate(61.177)" fill="white"  style={{whiteSpace: "pre"}} font-family="Montserrat" font-size="5.48241" font-weight="bold" letter-spacing="0em"><tspan x="0" y="5.46545">G</tspan></text>
+          /><text transform="translate(490.845 360.975) rotate(27.8929)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">E</tspan></text>
+          <text transform="translate(495.245 363.335) rotate(31.4912)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">N</tspan></text>
+          <text transform="translate(500.16 366.4) rotate(35.2971)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">G</tspan></text>
+          <text transform="translate(504.632 369.641) rotate(38.2034)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">I</tspan></text>
+          <text transform="translate(507.132 371.606) rotate(41.1789)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">N</tspan></text>
+          <text transform="translate(511.445 375.448) rotate(44.7772)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48242" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">E</tspan></text>
+          <text transform="translate(514.947 378.974) rotate(48.0986)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">E</tspan></text>
+          <text transform="translate(518.25 382.703) rotate(51.5585)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48242" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">R</tspan></text>
+          <text transform="translate(521.513 386.906) rotate(54.3956)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">I</tspan></text>
+          <text transform="translate(523.366 389.491) rotate(57.3712)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">N</tspan></text>
+          <text transform="translate(526.45 394.394) rotate(61.177)" fill="white"  style={{whiteSpace: "pre"}} fontFamily="Montserrat" fontSize="5.48241" fontWeight="bold" letterSpacing="0em"><tspan x="0" y="5.46545">G</tspan></text>
         </g>
         <g
           onClick={() => {
